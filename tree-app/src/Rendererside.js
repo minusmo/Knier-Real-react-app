@@ -1,2 +1,2 @@
 import React, { Component } from 'react';
-import 
+import { Sigma } from "react-sigma";
